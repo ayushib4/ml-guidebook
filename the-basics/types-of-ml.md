@@ -1,1 +1,1 @@
-## Types of machine learning
+## Types of Machine Learning

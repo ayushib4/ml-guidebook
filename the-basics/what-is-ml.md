@@ -1,1 +1,1 @@
-## What is machine learning?
+## What is Machine Learning?

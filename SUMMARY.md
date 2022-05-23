@@ -1,10 +1,10 @@
 # Summary
 
 * [The Basics](the-basics/overview.md)
-    * [What is machine learning?](the-basics/what-is-ml.md)
-    * [Types of machine learning](the-basics/types-of-ml.md)
-    * [Machine learning pipeline](the-basics/ml-pipeline.md)
-    * [Software tools](the-basics/software-tools.md)
+    * [What is Machine Learning?](the-basics/what-is-ml.md)
+    * [Types of Machine Learning](the-basics/types-of-ml.md)
+    * [Machine Learning Pipeline](the-basics/ml-pipeline.md)
+    * [Software Tools](the-basics/software-tools.md)
 
 * [Reinforcement Learning](reinforcement-learning/overview.md)
     * [Markov Decision Processes (MDPs)](reinforcement-learning/mdp.md)

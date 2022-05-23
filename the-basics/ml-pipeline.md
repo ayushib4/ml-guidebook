@@ -1,1 +1,1 @@
-## The machine learning pipeline
+## The Machine Learning Pipeline
