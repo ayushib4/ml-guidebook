@@ -1,0 +1,28 @@
+{
+    "name": "ml-guidebook",
+    "description": "A book on getting up to speed with ML",
+    "version": "0.0.1",
+    "maintainers": [
+        {
+            "name": "Ayushi Batwara"
+        }
+    ],
+    "dependencies": {
+        "@honkit/html": "^3.7.0",
+        "honkit-plugin-katex": "^1.1.7",
+        "mathjax": "^3.2.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ayushib4/ml-guidebook"
+    },
+    "license": "Copyright ©2021 Ayushi Batwara",
+    "scripts": {
+        "build": "honkit build",
+        "serve": "honkit serve"
+    },
+    "homepage": "https://ayushib4.github.io/ml-guidebook/",
+    "devDependencies": {
+        "honkit": "^3.7.1"
+    }
+}
