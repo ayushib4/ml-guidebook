@@ -5,6 +5,5 @@ Machine learning is a broad, rapidly evolving field, and this can be pretty inti
 
 To best maximize your experience with this guidebook, I recommend you have some prior programming experience in Python (knowledge that is roughly comparable to Berkeley's [CS 61A](http://cs61a.org/)). 
 
-## How to use this guidebook
-
-Insert some guidelines here.
+## Current Status
+Right now, this book has a chapter on Reinforcement Learning, which has been curated from a plethora of resources, including UC Berkeley's AI courses and David Silver's RL course. 
